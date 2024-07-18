@@ -1,2 +1,2 @@
-# High-Throughput-Screening-in-Drug-Discovery
-Analyzing Protein Targets and Biological Pathways
+# COVID-19 Drug Analysis
+Machine Learning to Analyze and Predict Drug Properties
